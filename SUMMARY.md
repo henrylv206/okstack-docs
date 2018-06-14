@@ -3,6 +3,6 @@
 * [readme-test](README.md)
 * [Linux防火墙（Iptables基础知识）](iptables-base.md)
 * [深入理解Iptables和Netfilter架构](iptables-architect.md)
-* [folder](test-folder/README.md)
-  * [file](test-folder/testfile.md)
+* [iptables](test-folder/README.md)
+  * [Iptables简单入门](test-folder/testfile.md)
 
