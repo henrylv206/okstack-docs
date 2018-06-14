@@ -2,7 +2,7 @@
 description: 学习和研究iptables的原理和用法。
 ---
 
-# Linux防火墙的学习和理解
+# 深入理解Iptables和Netfilter架构
 
 ## Linux防火墙
 
